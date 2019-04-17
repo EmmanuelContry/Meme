@@ -1,5 +1,5 @@
 [win]
-108.199.21.83 
+10.160.244.27 
 
 [win:vars]
 ansible_user=Qualitest - SDX1022

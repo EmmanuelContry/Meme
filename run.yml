@@ -1,8 +1,7 @@
 ---
 - hosts: win
   tasks:
-	- name: demo
-	  win_copy:
-				src: /home
-				dest: C:\
-				remote_src: True
+    - name: demo
+      win_copy:
+          src: /home
+          dest: C:\temp
