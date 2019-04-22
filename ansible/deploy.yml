@@ -11,5 +11,5 @@
           dest: C:\temp\FacultyPortal\api\
     - name: deploy development folder
       win_copy:
-          src: home/development/
+          src: /home/development/
           dest: C:\temp\FacultyPortal\api\
