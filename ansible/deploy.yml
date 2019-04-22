@@ -1,4 +1,5 @@
 ---
+- hosts: dev
   tasks:
     - name: deploy release folder
       win_copy:

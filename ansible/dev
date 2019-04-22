@@ -1,6 +1,7 @@
 [dev]
 10.160.244.188
 
+[dev:vars]
 ansible_user=Qualitest - SDX1022
 ansible_password=Qualitest1
 ansible_port=5986
